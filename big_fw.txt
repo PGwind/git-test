@@ -1,0 +1,6 @@
+一个txt文档
+创建及推送到github上过程
+
+$ touch runoob-test.txt      # 添加文件
+$ git add runoob-test.txt 
+$ git commit -m "添加到远程"
